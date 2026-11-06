@@ -1,4 +1,4 @@
-package com.salesianostriana.dam.spring.data.jpa;
+package com.salesianostriana.dam.spring.data.jpa.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,5 +1,7 @@
-package com.salesianostriana.dam.spring.data.jpa;
+package com.salesianostriana.dam.spring.data.jpa.sevices;
 
+import com.salesianostriana.dam.spring.data.jpa.models.Etiqueta;
+import com.salesianostriana.dam.spring.data.jpa.repos.EtiquetaRepository;
 import org.springframework.stereotype.Service;
 
 @Service

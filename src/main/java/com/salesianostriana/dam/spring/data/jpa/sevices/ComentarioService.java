@@ -1,5 +1,6 @@
-package com.salesianostriana.dam.spring.data.jpa;
+package com.salesianostriana.dam.spring.data.jpa.sevices;
 
+import com.salesianostriana.dam.spring.data.jpa.repos.ComentarioRepository;
 import org.springframework.stereotype.Service;
 
 @Service
